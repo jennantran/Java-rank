@@ -1,0 +1,20 @@
+.nav{
+    height: 8vh;
+    background-color: #AD974F;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+li{
+    padding: 20px;
+    margin-right: 30px;
+}
+
+.navLinks{
+    text-decoration:none;
+}
